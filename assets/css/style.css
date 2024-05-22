@@ -93,6 +93,24 @@ header {
     display: block;
 }
 
+.title h1 {
+    color: var(--black);
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 32px;
+    font-family: var(--poppins);
+    margin-bottom: 55px;
+    margin-top: 80px;
+}
+
+.title h1::before {
+    width: 62px;
+    height: 5px;
+    background-color: var(--red);
+    display: block;
+    margin-bottom: 10px;
+}
+
 .top-nav ul {
     list-style-type: none;
     text-decoration: none;
@@ -130,12 +148,18 @@ header {
     background-color: var(--vinho);
 }
 
-.title-acordion h1 {
-    color: var(--black);
-    font-size: 30px;
-    height: 43px;
-    line-height: 32px;
+#accordion h3 {
+    border-top: 1px solid var(--darkgray);
+    padding-top: 21px;
+    padding-bottom: 21px;
+    position: relative;
+    color: var(--colormain);
+    font-size: 22px;
     font-weight: 700;
+    line-height: 26px;
     font-family: var(--poppins);
-    margin-bottom: 57px;
+    cursor: pointer;
 }
+
+
+
