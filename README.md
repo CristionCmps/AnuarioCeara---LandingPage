@@ -1,9 +1,21 @@
-# Anuario Ceara - LandingPage 
+Anuário do Ceará - LandingPage + Accordion.
+-
+💻 Tecnologias utilizadas: HTML5, Css3 e Java Script.
 
-Projeto de Landing Page + Accordion.
+🛠️ Accordion - Função realizada com Jquery.
 
-Tecnologias utilizadas HTML5, Css3 e Java Script, Accordion com Bootstrap.
+📋 Material de Apoio: Bootstrap. 
 
-Design desktop first, tablet e mobile, focado na experiência do usuário em ambos dispositivos. Responsivo, se adapta perfeitamente em telas de diferentes tamanhos.
+Skills Project: Variáveis de CSS e HTML, Flexbox, e CSS Grid.
 
-Skills Project: Variáveis de CSS, Flexbox, e CSS Grid.
+---
+Design Responsivo - Desktop, Tablet e Mobile. 
+Se adapta perfeitamente em tamanhos diferentes de tela focado na experiência de usuário.
+
+
+
+
+
+
+
+
